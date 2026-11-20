@@ -1,0 +1,19 @@
+body{
+    width: 100vw;
+    height: 100vh;
+    position: fixed;
+}
+
+#div1{
+    padding:10% 25%;
+
+}
+#div1 img{
+    width: 100%;
+    display: block;
+
+}
+#div1 button{
+    width: 100%;
+    background-image: linear-gradient(to right, yellow , green);
+}
